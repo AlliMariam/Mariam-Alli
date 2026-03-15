@@ -116,7 +116,7 @@ Based in Cardiff, Wales. Open to the UK, Nigeria, the Middle East, or remote opp
 
 I'm always interested in talking about energy analytics, healthcare operations, data quality challenges, or career transitions from engineering to data science.
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-olushola-alli/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-olushola-alli/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mariam-alli.notion.site/Mariam-Alli-3610ca32a7fa4b4da39dada58aa7e0ab)  
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allimariam4@gmail.com)
 
