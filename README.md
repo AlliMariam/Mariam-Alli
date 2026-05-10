@@ -12,7 +12,7 @@ Previously: Hydrological Engineer
 
 I'm working on three things right now:
 
-**Energy systems** — My dissertation focuses on why predictive maintenance projects fail in oil and gas. Turns out, it's almost always a data quality problem, not a modeling problem. I've been interviewing engineers at Shell, Chevron, and TotalEnergies to understand what actually breaks in production environments.
+**Energy systems** - My dissertation focuses on why predictive maintenance projects fail in oil and gas. Turns out, it's almost always a data quality problem, not a modeling problem. I've been interviewing engineers at Shell, Chevron, and TotalEnergies to understand what actually breaks in production environments.
 
 **Healthcare operations** — At Rocialle, I build demand forecasting models for medical supply chains. The challenge isn't just predicting what hospitals need; it's doing it when your historical data includes random shocks like COVID and supply chain disruptions.
 
@@ -65,7 +65,7 @@ Winter bed shortages cost the NHS hundreds of millions annually. I built a model
 
 ---
 
-### Data Readiness Diagnostic Framework *(MSc Dissertation)*
+### [Data Readiness Diagnostic Framework *(MSc Dissertation)*](https://github.com/AlliMariam/data_readiness_tool)
 
 Most predictive maintenance projects fail because of data quality issues, not poor models. I'm building an automated diagnostic tool that checks industrial sensor data before any ML work begins.
 
@@ -78,7 +78,7 @@ Runs automated checks for sensor drift, missing data patterns, timestamp inconsi
 
 **Built with:** Python, statistical testing, pandas, NumPy, scipy
 
-**Timeline:** Completing May 2026. Planning to open-source after submission.
+**Timeline:** Completed in May 2026. Now open-source
 
 ---
 
@@ -105,9 +105,9 @@ Building demand forecasting frameworks for medical supply inventory. Working wit
 
 ## Currently
 
-I'm finishing my dissertation and building out this portfolio. I'm also writing about data science topics that don't get enough attention - things like why missing sensor data can be more valuable than present data, or how a 99% accurate model can be completely useless.
+Completed my MSc in Data Science and am building out this portfolio. I'm also writing about data science topics on LinkedIn that don't get enough attention - things like why missing sensor data can be more valuable than present data, or how a 99% accurate model can be completely useless.
 
-I'm looking for mid-level data analyst roles where domain expertise matters. Specifically in energy, healthcare, or any industry where getting the data right has real consequences.
+I'm looking for mid-level data analyst/business analyst roles where domain expertise matters. Specifically in energy, healthcare, or any industry where getting the data right has real consequences.
 
 Based in Cardiff, Wales. Open to the UK, Nigeria, the Middle East, or remote opportunities.
 
