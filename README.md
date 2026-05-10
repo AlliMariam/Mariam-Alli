@@ -2,7 +2,7 @@ Hii, I'm Mariam
 
 I build predictive models for energy and healthcare systems, the kind where bad data actually costs money or puts people at risk
 
-MSc Data Science @ Cardiff University (Graduating May 2026)  
+MSc Data Science @ Cardiff University 
 Business Analyst @ Rocialle Healthcare  
 Previously: Hydrological Engineer
 
@@ -12,9 +12,9 @@ Previously: Hydrological Engineer
 
 I'm working on three things right now:
 
-**Energy systems** - My dissertation focuses on why predictive maintenance projects fail in oil and gas. Turns out, it's almost always a data quality problem, not a modeling problem. I've been interviewing engineers at Shell, Chevron, and TotalEnergies to understand what actually breaks in production environments.
+**Energy systems** - My dissertation focused on why predictive maintenance projects fail in oil and gas. Turns out, it's almost always a data quality problem, not a modeling problem. I've been interviewing engineers at Shell, Chevron, and TotalEnergies to understand what actually breaks in production environments.
 
-**Healthcare operations** — At Rocialle, I build demand forecasting models for medical supply chains. The challenge isn't just predicting what hospitals need; it's doing it when your historical data includes random shocks like COVID and supply chain disruptions.
+**Healthcare operations** — At Rocialle, I build demand forecasting models for medical supply chains. The challenge isn't just predicting what hospitals need; it's doing it when your historical data includes random shocks and supply chain disruptions
 
 **Anomaly detection** — I like finding patterns that reveal operational problems early. Things like why oil wells suddenly stop producing, or why hospital admissions spike weeks before anyone expects winter pressure to hit.
 
